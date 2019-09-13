@@ -1,3 +1,8 @@
+# Making a few more changes to the README file
+change 4
+change 5
+change 6
+
 # Making a few changes to the README file
 change 1
 change 2
