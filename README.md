@@ -1,7 +1,10 @@
+# Making a few changes 2 to the README file
+change 3
+change 4
+
 # Making a few changes to the README file
 change 1
 change 2
-change 3
 
 # Welcome to GitHub
 
